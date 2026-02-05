@@ -29,8 +29,3 @@ This project was developed to demonstrate frontend web development skills by cre
 ## 📸 Preview
 <img width="1799" height="838" alt="image" src="https://github.com/user-attachments/assets/92daee2f-8079-4f07-ae7d-ab4e670a1d34" />
 <img width="1803" height="849" alt="image" src="https://github.com/user-attachments/assets/0cc8608f-3331-4d4b-b6cb-4ba4734c843c" />
-
-
-
-
-## 📂 Project Structure
